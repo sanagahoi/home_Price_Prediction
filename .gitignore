@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Data and large files
+*.csv
+*.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
