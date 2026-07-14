@@ -1,6 +1,6 @@
 # Home Price Prediction Web App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://homepricepredictiongit-2gshdhcuhxqwka8lchpa8z.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homepricepredictiongit-2gshdhcuhxqwka8lchpa8z.streamlit.app/)
 
 A professional Machine Learning solution for residential real estate valuation. This application uses advanced regression analysis to provide real-time price estimates based on property features.
 
